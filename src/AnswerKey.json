@@ -1,0 +1,152 @@
+[
+    {
+        "question": "2x + y = 5 \t x - y = 1",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "easy"
+    },
+    {
+        "question": "3x + 2y = 10 \t 2x - 3y = -5",
+        "answer": {"x": 2, "y": 2},
+        "difficulty": "easy"
+    },
+    {
+        "question": "4x + y = 9 \t x - 3y = -4",
+        "answer": {"x": 3, "y": 1},
+        "difficulty": "easy"
+    },
+    {
+        "question": "5x + 2y = 11 \t 3x - y = 1",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "easy"
+    },
+    {
+        "question": "2x + y = 7 \t x - 2y = -3",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "easy"
+    },
+    {
+        "question": "4x + y = 8 \t x - y = 1",
+        "answer": {"x": 2, "y": 0},
+        "difficulty": "easy"
+    },
+    {
+        "question": "3x + 2y = 10 \t 5x - 3y = 11",
+        "answer": {"x": 2, "y": 2},
+        "difficulty": "easy"
+    },
+    {
+        "question": "2x + y = 7 \t x - 3y = -4",
+        "answer": {"x": 3, "y": 2},
+        "difficulty": "easy"
+    },
+    {
+        "question": "4x + y = 10 \t x - y = 2",
+        "answer": {"x": 2, "y": 2},
+        "difficulty": "easy"
+    },
+    {
+        "question": "5x + 3y = 21 \t 2x - y = 7",
+        "answer": {"x": 3, "y": 2},
+        "difficulty": "easy"
+    },
+    {
+        "question": "2x + y = 5 \t 3x - y = 4",
+        "answer": {"x": 1, "y": 3},
+        "difficulty": "medium"
+    },
+    {
+        "question": "3x + 2y = 11 \t 2x - 3y = -2",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "medium"
+    },
+    {
+        "question": "4x - y = 5 \t x + y = 3",
+        "answer": {"x": 2, "y": 1},
+        "difficulty": "medium"
+    },
+    {
+        "question": "2x + 3y = 13 \t 4x - y = 10",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "medium"
+    },
+    {
+        "question": "3x + 4y = 16 \t 2x - 3y = 0",
+        "answer": {"x": 4, "y": 1},
+        "difficulty": "medium"
+    },
+    {
+        "question": "4x + y = 11 \t 2x - y = 3",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "medium"
+    },
+    {
+        "question": "5x + 2y = 17 \t 3x - y = 7",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "medium"
+    },
+    {
+        "question": "3x + 4y = 14 \t 2x - 3y = -3",
+        "answer": {"x": 3, "y": 2},
+        "difficulty": "medium"
+    },
+    {
+        "question": "4x + y = 9 \t 2x - y = 3",
+        "answer": {"x": 2, "y": 1},
+        "difficulty": "medium"
+    },
+    {
+        "question": "2x + y = 7 \t x - y = 3",
+        "answer": {"x": 2, "y": 1},
+        "difficulty": "medium"
+    },
+    {
+        "question": "2x + y = 5 \t 4x - y = 8",
+        "answer": {"x": 2, "y": 1},
+        "difficulty": "hard"
+    },
+    {
+        "question": "3x + 2y = 10 \t 5x - 3y = 11",
+        "answer": {"x": 2, "y": 2},
+        "difficulty": "hard"
+    },
+    {
+        "question": "4x - y = 5 \t 2x + y = 3",
+        "answer": {"x": 1, "y": -1},
+        "difficulty": "hard"
+    },
+    {
+        "question": "2x + 3y = 13 \t 3x - 2y = 4",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "hard"
+    },
+    {
+        "question": "3x + 4y = 19 \t 2x - 3y = 2",
+        "answer": {"x": 5, "y": 1},
+        "difficulty": "hard"
+    },
+    {
+        "question": "4x + y = 10 \t 2x - y = 2",
+        "answer": {"x": 2, "y": 2},
+        "difficulty": "hard"
+    },
+    {
+        "question": "5x + 2y = 17 \t 3x - y = 7",
+        "answer": {"x": 2, "y": 3},
+        "difficulty": "hard"
+    },
+    {
+        "question": "3x + 4y = 14 \t 2x - 3y = -3",
+        "answer": {"x": 3, "y": 2},
+        "difficulty": "hard"
+    },
+    {
+        "question": "4x + y = 11 \t x - y = 1",
+        "answer": {"x": 3, "y": 2},
+        "difficulty": "hard"
+    },
+    {
+        "question": "5x + 3y = 21 \t 2x - y = 7",
+        "answer": {"x": 3, "y": 2},
+        "difficulty": "hard"
+    }
+]
